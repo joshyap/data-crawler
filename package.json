@@ -11,9 +11,10 @@
     "url": "git+https://github.com/joshyap/data-crawler.git"
   },
   "author": "josh",
-  "license": "ISC",
+  "license": "ISC", 
   "bugs": {
     "url": "https://github.com/joshyap/data-crawler/issues"
   },
   "homepage": "https://github.com/joshyap/data-crawler#readme"
 }
+ 
