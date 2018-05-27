@@ -11,6 +11,11 @@
     "url": "git+https://github.com/joshyap/data-crawler.git"
   },
   "author": "josh",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  },
   "license": "ISC", 
   "bugs": {
     "url": "https://github.com/joshyap/data-crawler/issues"
